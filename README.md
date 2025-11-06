@@ -1,4 +1,4 @@
-🧩 Tic-Tac-Toe (Java Console Game)
+ 🧩 Tic-Tac-Toe (Java Console Game)
 
 This is a simple Tic-Tac-Toe game developed in Java, running in the console.
 Two players (X and O) take turns selecting a position on a 3×3 grid until one player wins or the game ends in a draw.
@@ -31,7 +31,7 @@ Structuring small console-based applications
 
 Clone the repository:
 
-git clone https://github.com/<username>/tic-tac-toe-java.git
+git clone https://github.com/teoaves/tic-tac-toe.git
 
 
 Navigate into the project folder and compile the code:
